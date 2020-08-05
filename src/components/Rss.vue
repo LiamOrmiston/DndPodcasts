@@ -22,6 +22,7 @@
 </template>
 
 <script>
+import podcasts from '../DndPodcasts.json'
 export default {
   name: 'Rss',
   props: {
@@ -30,11 +31,7 @@ export default {
   },
   data: function () {
     return {
-      feeds: [
-        { id: 0, title: 'Hi' },
-        { id: 1, title: 'Hello' },
-        { id: 2, title: 'How are you?' }
-      ],
+      feeds: [],
       newFeedText: '',
       nextFeedId: 3
     }
@@ -47,7 +44,9 @@ export default {
       })
       this.newFeedText = ''
     }
-    
+  },
+  mounted() { // when the Vue app is booted up, this is run automatically.
+    this.feeds = podcasts;
   }
 }
 </script>

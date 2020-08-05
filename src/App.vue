@@ -7,11 +7,15 @@
 
 <script>
 import Rss from './components/Rss.vue'
+import podcasts from './DndPodcasts.json'
 
 export default {
   name: 'App',
   components: {
     Rss
+  },
+  mounted() {
+    Rss.feeds = podcasts;
   }
 }
 </script>
