@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import Admin from './components/Admin.vue'
 import Rss from './components/Rss.vue'
 import podcasts from './DndPodcasts.json'
 
@@ -16,6 +17,7 @@ export default {
   },
   mounted() {
     Rss.feeds = podcasts;
+    Admin.feeds = podcasts;
   }
 }
 </script>
