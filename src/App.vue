@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Rss test="Art of the Roll"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Rss from './components/Rss.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Rss
   }
 }
 </script>
