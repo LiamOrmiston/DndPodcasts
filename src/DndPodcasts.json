@@ -1,5 +1,20 @@
 [
-    { "id": "0", "title": "Hi" }, 
-    { "id": "1", "title": "Hello" },
-    { "id": "2", "title": "How are you?" }
+  {
+    "id": 0,
+    "title": "Art of the Roll",
+    "content":
+      "<p>6 old college friends gather once a week to play DND 5e as a way to stay in touch and to weave an interesting story.</p>"
+  },
+  {
+    "id": 1,
+    "title": "Not Another D&D Podcast",
+    "content":
+      "<p>Welcome to the campaign after the campaign! Three unlikely adventurers attempt to right the wrongs caused by a party of legendary heroes who screwed up the world while trying to save it. DM Brian Murphy is joined by Emily Axford, Jake Hurwitz, and Caldwell Tanner for this D&D play podcast.</p>"
+  },
+  {
+    "id": 2,
+    "title": "Critical Role",
+    "content":
+      "<p>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons & Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</p>"
+  }
 ]

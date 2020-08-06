@@ -1,30 +1,48 @@
 <template>
   <div class="rss">
-    <h1>{{ test }}</h1>
-    <p>
-      This is a test.
-      <ol>
-        <li v-for="feed in feeds" v-bind:key="feed.id">
-          {{ feed.title }}
-        </li>
-      </ol>
-    </p>
+    <ul class="posts-sidebar">
+      <li
+        v-for="post in posts"
+        v-bind:key="post.id"
+        v-bind:class="{ selected: post === selectedPost }"
+        v-on:click="selectedPost = post"
+      >
+        {{ post.title }}
+      </li>
+    </ul>
+    <div class="selected-post-container">
+      <div
+       v-if="selectedPost"
+       class="selected-post"
+      >
+        <h3>{{ selectedPost.title }}</h3>
+        <div v-html="selectedPost.content"></div>
+      </div>
+      <strong v-else>
+        Click on a Podcast to the left to view its description.
+      </strong>
+    </div>
   </div>
 </template>
 
 <script>
+import podcasts from '../DndPodcasts.json'
+
 export default {
   name: 'Rss',
   props: {
-    test: String,
     feed: Array
   },
   data: function () {
     return {
-      feeds: [],
-      newFeedText: '',
-      nextFeedId: 3
+      posts: [],
+      selectedPost: null
     }
+  },
+  mounted() {
+    this.posts = podcasts;
   }
 }
 </script>
+<style src="./Rss.css" scoped>
+</style>
