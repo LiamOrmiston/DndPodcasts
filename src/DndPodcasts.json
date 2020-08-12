@@ -2,19 +2,261 @@
   {
     "id": 0,
     "title": "Art of the Roll",
-    "content":
-      "<p>6 old college friends gather once a week to play DND 5e as a way to stay in touch and to weave an interesting story.</p>"
+    "content": "<p>6 old college friends gather once a week to play DND 5e as a way to stay in touch and to weave an interesting story.</p>"
   },
   {
     "id": 1,
-    "title": "Not Another D&D Podcast",
-    "content":
-      "<p>Welcome to the campaign after the campaign! Three unlikely adventurers attempt to right the wrongs caused by a party of legendary heroes who screwed up the world while trying to save it. DM Brian Murphy is joined by Emily Axford, Jake Hurwitz, and Caldwell Tanner for this D&D play podcast.</p>"
+    "title": "Dragon Talk - An Official Dungeons & Dragons Podcast",
+    "content": "<p>Go inside the walls of Dungeons & Dragons for exclusive interviews and previews! The D&D team sits down each week with celebrities and personalities from across gaming and pop culture to discuss one of the greatest fantasy brands of all-time. We'll talk about the tabletop roleplaying game, as the latest in D&D video games, comics, novels, movies, and television.</p>"
   },
   {
     "id": 2,
     "title": "Critical Role",
-    "content":
-      "<p>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons & Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</p>"
+    "content": "<p>Welcome to Critical Role, where a bunch of nerdy-ass voice actors sit around and play Dungeons & Dragons! Join Dungeon Master Matthew Mercer and an all-star cast of world-class performers each week as they travel through imaginary realms for more adventure than you can shake a magic staff at. Need a deeper dive? Be sure to catch Talks Machina with Brian W. Foster, the official Critical Role companion show, right here on Critical Role.</p>"
+  },
+  {
+    "id": 3,
+    "title": "Dice, Camera, Action! – An Official Dungeons & Dragons Podcast",
+    "content": "<p>Dice, Camera, Action! with Chris Perkins (@ChrisPerkinsDND) is the longest-running D&D liveplay show on twitch.tv/dnd. Chris Perkins is the Dungeon Master for the amazing group of adventurers now known as the Waffle Crew. Join the #WaffleCrew community on Reddit at /r/DiceCameraAction/. Watch Dice, Camera, Action! live on twitch.tv/dnd Tuesdays at 4pm PT!</p>"
+  },
+  {
+    "id": 4,
+    "title": "Dungeon Delve – An Official Dungeons & Dragons Podcast",
+    "content": "<p>Dungeon Delve from Dungeons & Dragons features live play D&D adventures in convenient audio form. Chris Perkins, Dungeon Master and principal story designer for Dungeons & Dragons, hosts newly remastered episodes of his adventures with Acquisitions, Inc. as well as other live play sessions with members of the D&D team.</p>"
+  },
+  {
+    "id": 5,
+    "title": "Murder Dice - A 5e Dungeons & Dragons Podcast",
+    "content": "<p>Murder Dice is a 5e, actual play, Dungeons & Dragons podcast. Follow the Slayers on their adventure through Kiatum as they dispatch the world of monsters and dead Gods. Murder dice is a 5e podcast with some 2e flair. If you enjoy playing dnd and want to feel like you are at the table with friends this is the show for you. Join us on our ttrpg adventure!</p>"
+  },
+  {
+    "id": 6,
+    "title": "Critical Hit: A Dungeons and Dragons Campaign",
+    "content": "<p>Listen, learn, and laugh along with the members of the Critical Hit Podcast. The continuing saga of five adventurers seeking fortune and glory in the world of Dungeons and Dragons., Urban Shadows, Fate, Pathfinder, and more. Plenty of role playing and fun for everyone. Newbies or seasoned vets will get a kick out of this live campaign.</p>"
+  },
+  {
+    "id": 7,
+    "title": "Greetings Adventurers - Dungeons and Dragons 5e Actual Play",
+    "content": "<p>Greetings, Adventurers! (Formerly Drunks and Dragons) is an award-winning actual-play, comedy podcast using Dungeons and Dragons as a framework for creating a (mostly) improvised narrative.</p>"
+  },
+  {
+    "id": 8,
+    "title": "Dungeon Casters: A DM Advice Podcast",
+    "content": "<p>An RPG podcast for rookie DMs, by rookie DMs. We made the mistakes so you don't need to. We care about you that much.\n\nNew episode every Friday.</p>"
+  },
+  {
+    "id": 9,
+    "title": "Rise of the Demigods | A Dungeons and Dragons Podcast",
+    "content": "<p>Rise of the Demigods is a 5th edition Dungeons and Dragons actual play podcast set in the world of Godsfall. Join us as four young demigods face training and trials in the divine halls and magical valleys of the Temple of Udea.</p>"
+  },
+  {
+    "id": 10,
+    "title": "Lawful Stupid: A DnD 5e Actual Play Podcast",
+    "content": "<p>We at Lawful Stupid are a D&D 5e actual play podcast who actually love to play. We love everything about the Tabletop RPG Community and consistently strive to make the world a better place within that community through inclusivity, creativity, charitable acts, and above all else, fantastical heroism. If you want to be a part of the amazing dnd community of artists, creators, and all around amazing fun people that we are building please join us in our discord.</p>"
+  },
+  {
+    "id": 11,
+    "title": "A Quest for Magic and Steele - DnD ",
+    "content": "<p>Join us on our epic DnD.....well, maybe not so epic.....but, pretty cool adventure, as our family takes on the roles of our adventurers.. A Quest for Magic and Steele is our Home grown, Dungeons and Dragons podcast show brought to you by the SteeleEmpire. Amara, Shayna, Elisha, Ilana, Josiah, Brian, Danielle and David play the role playing RPG game of Dungeons and Dragons. We voice act all the characters, making it an enjoyable audio to join in on. Take us to work, gym, bus, train. or anywhere you need something to fill the void. We upload a new show bi-weekly to give you a little joy to start off your week!</p>"
+  },
+  {
+    "id": 12,
+    "title": "Godsfall  | A Dungeons and Dragons Podcast",
+    "content": "<p>An original, actual play D&D (Dungeons & Dragons) fantasy story following a group of 5th edition players discovering their destiny as newly arisen gods</p>"
+  },
+  {
+    "id": 13,
+    "title": "Party Roll - A 5E Dungeons and Dragons Podcast",
+    "content": "<p>We're six friends who shoved microphones in front our faces while playing dungeons and dragons. Listen along while we drink, tell jokes, and make the DM hate us!\nNew episodes every Friday.</p>"
+  },
+  {
+    "id": 14,
+    "title": "bomBARDed - A Musical Dungeons & Dragons Adventure",
+    "content": "<p>DFW band Lindby brings you a musical D&D adventure following the exploits of three bards. New episode every other Tuesday!</p>"
+  },
+  {
+    "id": 15,
+    "title": "Venture Maidens | A Dungeons and Dragons Podcast",
+    "content": "<p>Venture Maidens is a veteran all-female and Nonbinary 5e D&D actual play podcast set in the homebrew world of The Planes. Our four heroes have been tapped by the fates themselves, and swept into the machinations of a mysterious organization known as the 'Sisters of Sorrow.' Join us for an epic tale full of character-driven role-play, with new episodes posting every other Sunday. Until then, venture away.</p>"
+  },
+  {
+    "id": 16,
+    "title": "Runelanders",
+    "content": "<p>We're a curated D&D 5e Actual Play which features a homebrew universe chock full of action and adventure, with a retrofuturistic style and a sound all its own. NSFW/K; our show contains about as much adult content as your typical adult-oriented premium cable show, mostly in the form of dark themes, sexual content, drug use, and coarse language.Our flagship series is a street-level crime caper set in the byzantine boroughs of Bailymena, Skodia's sinister City of Steel & Steam.   Now in our second season!</p>"
+  },
+  {
+    "id": 17,
+    "title": "Dungeon Dads",
+    "content": "<p>War is coming to the Brine valley, and its future may be determined by three unlikely heroes: a patronizing wizard with something to prove, a mild-mannered pastry chef turned mild-mannered killing machine, and a grizzled veteran who wants to give peace a chance, even though his god would rather see the whole thing burn, burn, burn. Dungeon Dads is a DnD 5e actual play podcast adventure. If you like TTRPGs, dad jokes, epic stories, and '80s movie references, this is the podcast is for you, whether or not you've ever played Dungeons and Dragons.</p>"
+  },
+  {
+    "id": 18,
+    "title": "You Meet In a Tavern - A 5E D&D Actual Play Podcast",
+    "content": "<p>Follow the continuing epic podcast adventures of Tug, Derf, and Karl (played by Kirk, Jamal, and Bryan) as we navigate our way through our first 5E D&D campaign.</p>"
+  },
+  {
+    "id": 19,
+    "title": "Roll to Hit (5th Ed. Dungeons and Dragons)",
+    "content": "<p>Join us on our weekly adventures in a live play, custom 5th edition Dungeons and Dragons campaign!</p>"
+  },
+  {
+    "id": 20,
+    "title": "Dungeons & Randomness: A Dungeons & Dragons Podcast",
+    "content": "<p>Three groups play D&D in Theria. Their choices shape the world and each other.  New to the podcast? Start with 'Arc 3: Episode 1' and dive into the action!</p>"
+  },
+  {
+    "id": 21,
+    "title": "Dames and Dragons",
+    "content": "<p>Dames & Dragons is a comedy D&D actual play podcast with a detailed original setting, lots of stupid jokes, a mystery or two, and some fumbling attempts at heroism. Join our cast of teen Guardians as they protect their Goddess from monsters, traps, social awkwardness, bread mold, and murderous ancient deities—among other things. Updates every other Monday! www.damesanddragons.com</p>"
+  },
+  {
+    "id": 22,
+    "title": "How Friends Roll | a Dungeons and Dragons 5th edition actual play DnD 5e podcast",
+    "content": "<p>A beginner friendly Dungeons and Dragons 5th edition actual play podcast, featuring a series of micro campaigns and a rotating cast of characters.</p>"
+  },
+  {
+    "id": 23,
+    "title": "CSI: Neverwinter - Dungeons and Dragons 5e Actual Play",
+    "content": "<p>An actual play D&D 5e podcast</p>"
+  },
+  {
+    "id": 24,
+    "title": "Just Roll With It - A Dungeons and Dragons Podcast",
+    "content": "<p>An absurdly powerful D&D podcast where we just roll with it.</p>"
+  },
+  {
+    "id": 25,
+    "title": "Pork Fried Dice - A Dungeons & Dragons Podcast",
+    "content": "<p>Pork Fried Dice is an actual-play Dungeons and Dragons podcast where we try to tell a compelling story, but have fun doing it. That is to say, we take the story seriously, but we don’t take ourselves too seriously.\nOur goal is to have a show where our listeners feel like they are at the table with us. We are a roleplay-heavy podcast, because we like character interaction, but we’re also a group of people that make crude jokes, anachronistic references, and godawful (or clever, if you’re into that kind of thing) puns.\n\nEnjoy!\n-----------------------\nEmail: PorkFriedDice@gmail.com.\n\nTwitter: @PorkFriedDice.\n\nFind out more: www.porkfrieddice.com</p>"
+  },
+  {
+    "id": 26,
+    "title": "Adventure a Dungeons and Dragons Podcast",
+    "content": "<p>Dungeons and Dragons actual play podcast hosted by Bobby Shortle, Jacqui Turner, Brian Verderosa, Justin Reilly, and Bob Reyer. Each episode of Adventure is fully produced with soundscapes, music, and SFX from our resident druid Justin Reilly.  Go on thrilling and ridiculous adventures with first time D & D players.</p>"
+  },
+  {
+    "id": 27,
+    "title": "DnDUI - Dungeons and Dragons Under the Influence",
+    "content": "<p>A show aboout having a d20 in one hand, and a glass in the other.</p>"
+  },
+  {
+    "id": 28,
+    "title": "The End of Time and Other Bothers",
+    "content": "<p>An improvised fantasy roleplaying game set in the world of Alba Salix, Royal Physician. We use the Dungeon World roleplaying system and improv to weave a tale of flightless fairies, half-demons and cafeteria line workers, dystopian empires, magical waterfalls and mysterious books. Oh, and the end of time—that's in there somewhere too.</p>"
+  },
+  {
+    "id": 29,
+    "title": "Serendipity City",
+    "content": "<p>Serendipity City is an actual-play podcast that takes place in a sprawling, dieselpunk metropolis with a magical underworld (in more ways than one). Anarchists fight corrupt companies, shapeshifters fight for turf, dwarves work in the caves underneath the city, and through it all, our intrepid group of questionable heroes just wants to do the job they were hired for.</p>"
+  },
+  {
+    "id": 30,
+    "title": "Dungeons and Dragons 4E Adventures",
+    "content": "<p>Follow BensRPGPile.com game group as they tackle the Thunderspire Labyrinth\n\nDungeons and Dragons 4E adventure. It will take our heroic team of mighty RPG adventurers from levels four to six. A new episode is uploaded every week.</p>"
+  },
+  {
+    "id": 31,
+    "title": "Acquisitions Incorporated: The Series",
+    "content": "<p>Acquisitions Incorporated serves up locally-sourced adventure from convenient franchise locations across Faerûn. Their adventures began in 2007 with a podcast of three friends playing D&D, and inexplicably progressed to live games on-stage before thousands of audience members at PAX.</p>"
+  },
+  {
+    "id": 32,
+    "title": "Ghostpuncher Corps",
+    "content": "<p>Ghostpuncher Corps is a tabletop roleplaying podcast in which Dungeon Mistress Lilith takes three adventurers through the comic world of Ghostpuncher. Petua, the neurotic warlock played by Amanda. Elektra, the synth bard played by Sydney. Mikey, the feral, pug-face t-shirt wearing druid played by Cassidy. These three are tasked by Lucifer herself to track down escaped souls and return them to Hell by any means necessary.</p>"
+  },
+  {
+    "id": 33,
+    "title": "Dungeons and Dragon Wagon",
+    "content": "<p>The Podcasters of the Dragon Wagon Radio podcast network venture into a mythical land in this DnD inspired actual-play homebrew RPG show that's heavy on the RP.  Jake Lloyd, Alexandra Hoey and Matt Hingstman are joined by actor, improv and comic special guests, and must take on the roles of Half-Orcs, Dark Elves and more as they fight their way through a mythical land of peril, drama and hilarity all controlled by Dungeon Master Paul Bianchi and the chance rolls of dice!</p>"
+  },
+  {
+    "id": 34,
+    "title": "Not Another D&D Podcast",
+    "content": "<p>Welcome to the campaign after the campaign! Three unlikely adventurers attempt to right the wrongs caused by a party of legendary heroes who screwed up the world while trying to save it. DM Brian Murphy is joined by Emily Axford, Jake Hurwitz, and Caldwell Tanner for this D&D play podcast. </p>"
+  },
+  {
+    "id": 35,
+    "title": "Radio Free Borderlands: A Dungeons & Dragons Podcast",
+    "content": "<p>Radio Free Borderlands is a show about D&D spanning the entire run of the game. You will get the past, present, and future of the game, along with product reviews, retro reviews, gaming advice, talk on the culture of gamers, and whatever can be shoehorned into the overall narrative of D&D. No matter what edition you play, you will find topics on it.</p>"
+  },
+  {
+    "id": 36,
+    "title": "Bonus Action | A Dungeons and Dragons and Roleplaying Series",
+    "content": "<p>Dungeons and Dragons 5th Edition play series with the occasional other game or episode thrown in for variety.\n\nCurrently playing an original campaign titled The Blight of Riverhaven and converting our video series into this podcast.\n\nSocial Stuff:\nhttp://twitter.com/bonusaction\nhttp://twitch.tv/bonusaction\nhttp://youtube.com/c/BonusActionDnD\nhttp://www.bonusactionpodcast.com</p>"
+  },
+  {
+    "id": 37,
+    "title": "Very Random Encounters: Chaotic Improv Actual Play",
+    "content": "<p>Welcome to Very Random Encounters, a show where we play pen and paper RPGs in which we've randomly determined as many things as is possible, including characters, villains, names, places, and other weirder stuff! It all comes together to be a very random encounter. We're an actual play roleplaying game podcast by four friends who love the challenge of telling a story whose details are all prompted by random rolls. You can start with the first episode in any given season.</p>"
+  },
+  {
+    "id": 38,
+    "title": "Dungeons and Daddies",
+    "content": "<p>A D&D real play podcast about four dads from our world transported into the Forgotten Realms and their quest to rescue their sons. Not a BDSM podcast!</p>"
+  },
+  {
+    "id": 39,
+    "title": "Awful Neutral: A Dungeons and Dragons Debacle",
+    "content": "<p>A cloaked & grizzled figure stares intensely at you. “So it’s adventure you crave?” he asks, half-whispering as if about to reveal to you a secret. “Well you’ve come to the right place!” he exclaims as he leaps to his feet. “Feast your ears on the wonders of the Awful Neutral podcast! There’s fighting cats, sassy punk gnomes, magic, mayhem, and more fun than a vorpal sword can cut through! Give it a listen, there’s a new episode every Wednesday!</p>"
+  },
+  {
+    "id": 40,
+    "title": "The SpellCast D&D - A 5th Edition Dungeons and Dragons Actual-Play Podcast!",
+    "content": "<p>The SpellCast D&D brings you a saga of high adventure! Join Adam Brooks (Dungeon Master/Storyteller), Pierre Viola (Ront Havenfair), Mike Vides (Halexan Wynalder), Gerald Acevedo (Conall Pending), Charlotte Raines (Sav'ah Rah Vicarro), and Sam Ortiz (Azazel Makeus) as they navigate a perilous homebrew Faerun setting!\n\n(Music courtesy of Magic Sword)\n\n(Art by Rob Robbins)</p>"
+  },
+  {
+    "id": 41,
+    "title": "The Adventure Zone",
+    "content": "<p>Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..</p>"
+  },
+  {
+    "id": 42,
+    "title": "Dragon Friends",
+    "content": "<p>Meet Philge the Half Orc Barbarian, Freezo the High Elf Warlock, Halfling Rogue Bobby Pancakes and Baston Indrirovich as they quest through the magical world of Faerun and beyond. Dragon Friends is a monthly comedy show and podcast where six Australian comedians muddle their way through their first Dungeons & Dragons campaign. Heads up, it gets weird, quick.</p>"
+  },
+  {
+    "id": 43,
+    "title": "Beer and Battle :podcast",
+    "content": "<p>Join friends as they drink, curse, and play DnD (Dungeons and Dragons) or Pathfinder Role Playing Games!  Expect profanity, dice, and critical hits. Players include members of bands The Strand and Hardwire.</p>"
+  },
+  {
+    "id": 44,
+    "title": "Dragon Questicles - A Podcast about Dungeons, Dragons, and Friendship",
+    "content": "<p>We are a real play, role play podcast of a couple of friends recording their Dungeons and Dragons sessions and releasing them to the internet.</p>"
+  },
+  {
+    "id": 45,
+    "title": "Crit Academy: A Dungeons and Dragons Podcast",
+    "content": "<p>Our podcast was created to deliver guidance to our heroes and provide them with new and reusable material for both players and DMs. We hope to inspire you with creative content that you can bring with you on your next adventure. Visit us at www.critacademy.com and subscribe to our emailing listing for a chance to win awesome prizes.\n​Our podcast is broken into three segments!\n​Crit Nation feedback! Where we dedicate and entire segment to the concerns, questions or anything you have to share with us.\n​Main Topic! Our primary topic of discussion ranging from combat effectiveness, roleplaying and similar tips to help you learn or improve your gameplay experience!\nOur Unearthed Tips & Tricks Segment! Our favorite segment where we share with you ideas that you can use on your next adventure. This includes character concepts, magic items, encounter ideas, DM tips and player tips.</p>"
+  },
+  {
+    "id": 46,
+    "title": "Friday Knights: A 5e Dungeons and Dragons Real Play Podcast",
+    "content": "<p>Friday Knights is a weekly fifth edition Dungeons and Dragons real play adventure. Our Season 2 brings new characters and a home brew story!\n\nNew episodes release every Monday.\n\nFollow us on Twitter @FridayKnights</p>"
+  },
+  {
+    "id": 47,
+    "title": "There Will Be Dungeons",
+    "content": "<p>A Dungeons and Dragons campaign show with nerds.</p>"
+  },
+  {
+    "id": 48,
+    "title": "Hapless Heroes: A Dungeons and Dragons Campaign",
+    "content": "<p>The Hapless Heroes Podcast is a homebrew D&D comedy podcast and campaign set in the world of Telduria that consists of a rotating cast of players and DMs with an aptitude for rolling poorly.\n\nThis NSFW podcast also features some hilarious table banter, punishing critical failures, immersive-yet-questionable roleplaying, and an ever-evolving, completely improvised story.\n\nTune in and join the cast at their table every Monday as they embark on an epic journey of fame, fortune and failure.</p>"
+  },
+  {
+    "id": 49,
+    "title": "What Would The Smart Party Do?",
+    "content": "<p>Gaz and Baz have spent decades talking about games, ever since University, which was far too long ago for their liking.\nAll RPG problems were solved in whiskey-fueled late night sessions, with the disappointing realization they couldn’t remember any of it the following day being the only fly in the ointment.\nNow older, wiser and more experienced, the plucky duo have decided to commit their enthralling discussion to this new fangled podcast technology, in the vain hopes of capturing something useful or interesting. It should be a conversation starter if nothing else.\nGetting them to start talking was never the problem. Making them stop however…</p>"
+  },
+  {
+    "id": 50,
+    "title": "This Is Gonna Hurt - A Fifth Edition Dungeons and Dragons Podcast",
+    "content": "<p>Four adventurers explore the country of Etrun while trying to stop a shady organization from using the souls of their fellow citizens to resurrect an evil tyrant from the past.</p>"
+  },
+  {
+    "id": 51,
+    "title": "Douglas and Dragons: An Actual-Play Pathfinder Podcast",
+    "content": "<p>A weekly actual-play Pathfinder podcast. Indie comicbook creators from around the US getting together to make jokes and roll virtual dice. Adventures created by John Bunger, set in the Pathfinder Campaign Setting. This is the new, valid feed for Douglas and Dragons!</p>"
   }
 ]
