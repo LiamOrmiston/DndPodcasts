@@ -16,6 +16,9 @@
        class="selected-post"
       >
         <h3>{{ selectedPost.title }}</h3>
+        <a v-bind:href="selectedPost.link">
+          <img v-bind:src="selectedPost.image" width="200" height="200">
+        </a>
         <div v-html="selectedPost.content"></div>
       </div>
       <strong v-else>
@@ -26,7 +29,8 @@
 </template>
 
 <script>
-import podcasts from '../DndPodcasts.json'
+import podcasts from '../data.json'
+// import podcasts from '../DndPodcasts.json'
 
 export default {
   name: 'Rss',
@@ -40,7 +44,7 @@ export default {
     }
   },
   mounted() {
-    this.posts = podcasts;
+    this.posts = podcasts['podcasts'];
   }
 }
 </script>
