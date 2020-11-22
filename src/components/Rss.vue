@@ -1,36 +1,28 @@
 <template>
   <div class="rss">
-    <ul class="posts-sidebar">
-      <li
-        v-for="post in posts"
-        v-bind:key="post.id"
-        v-bind:class="{ selected: post === selectedPost }"
-        v-on:click="selectedPost = post"
-      >
-        {{ post.title }}
-      </li>
-    </ul>
-    <div class="selected-post-container">
-      <div
-       v-if="selectedPost"
-       class="selected-post"
-      >
-        <h3>{{ selectedPost.title }}</h3>
-        <a v-bind:href="selectedPost.link">
-          <img v-bind:src="selectedPost.image" width="200" height="200">
-        </a>
-        <div v-html="selectedPost.content"></div>
-      </div>
-      <strong v-else>
-        Click on a Podcast to the left to view its description.
-      </strong>
-    </div>
+    <b-card-group deck>
+      <b-card no-body class="overflow-auto" style="max-width: 540px; max-height: 250px;" v-for="post in posts" v-bind:key="post.id">
+        <b-row no-gutters>
+          <b-col md="6">
+            <a v-bind:href="post.link">
+              <b-card-img v-bind:src="post.image" class="rounded-0"></b-card-img>
+            </a>
+          </b-col>
+          <b-col md="6">
+            <b-card-body v-bind:title="post.title">
+              <b-card-text>
+                <div v-html="post.content" style="text-overflow: ellipsis;"></div>
+              </b-card-text>
+            </b-card-body>
+          </b-col>
+        </b-row>
+      </b-card>
+    </b-card-group>
   </div>
 </template>
 
 <script>
 import podcasts from '../data.json'
-// import podcasts from '../DndPodcasts.json'
 
 export default {
   name: 'Rss',
