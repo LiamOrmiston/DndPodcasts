@@ -1,7 +1,7 @@
 <template>
   <div class="rss">
     <b-container class="podcast-card">
-      <b-card v-for="post in posts" v-bind:key="post.id">
+      <b-card v-for="post in posts" v-bind:key="post.id" style="margin-bottom: 15px;">
         <b-row no-gutters>
           <b-col md="2">
             <a v-bind:href="post.link">

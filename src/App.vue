@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <h2>DndPodcasts.com</h2>
+    <b-container>
+      <h2>DndPodcasts.com</h2>
+    </b-container>
     <Rss/>
   </div>
 </template>
