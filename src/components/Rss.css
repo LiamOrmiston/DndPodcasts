@@ -1,5 +1,6 @@
 .rss {
   display: flex;
 }
-.podcast-card {
+.podcastCard {
+    margin-bottom: 15px;
 }

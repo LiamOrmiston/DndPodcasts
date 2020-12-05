@@ -1,7 +1,11 @@
 <template>
   <div class="rss">
-    <b-container class="podcast-card">
-      <b-card v-for="post in posts" v-bind:key="post.id" style="margin-bottom: 15px;">
+    <b-container class="podcastContainer">
+      <b-card 
+        class="podcastCard"
+        v-for="post in posts.slice((currentPage - 1) * perPage, currentPage * perPage)"
+        v-bind:key="post.id"
+      >
         <b-row no-gutters>
           <b-col md="2">
             <a v-bind:href="post.link">
@@ -17,6 +21,13 @@
           </b-col>
         </b-row>
       </b-card>
+      <b-pagination 
+        v-model="currentPage"
+        :total-rows="rows"
+        :per-page="perPage"
+        aria-controls="podcastContainer"
+        align="center"
+      ></b-pagination>
     </b-container>
   </div>
 </template>
@@ -32,7 +43,13 @@ export default {
   data: function () {
     return {
       posts: [],
-      selectedPost: null
+      currentPage: 1,
+      perPage: 5
+    }
+  },
+  computed: { 
+    rows() { 
+      return this.posts.length
     }
   },
   mounted() {
