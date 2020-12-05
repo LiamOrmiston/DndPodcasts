@@ -1,23 +1,23 @@
 <template>
   <div class="rss">
-    <b-card-group deck>
-      <b-card no-body class="overflow-auto" style="max-width: 540px; max-height: 250px;" v-for="post in posts" v-bind:key="post.id">
+    <b-container class="podcast-card">
+      <b-card v-for="post in posts" v-bind:key="post.id">
         <b-row no-gutters>
-          <b-col md="6">
+          <b-col md="2">
             <a v-bind:href="post.link">
-              <b-card-img v-bind:src="post.image" class="rounded-0"></b-card-img>
+              <b-img v-bind:src="post.image" rounded fluid></b-img>
             </a>
           </b-col>
-          <b-col md="6">
+          <b-col fluid>
             <b-card-body v-bind:title="post.title">
               <b-card-text>
-                <div v-html="post.content" style="text-overflow: ellipsis;"></div>
+                <div v-html="post.content"></div>
               </b-card-text>
             </b-card-body>
           </b-col>
         </b-row>
       </b-card>
-    </b-card-group>
+    </b-container>
   </div>
 </template>
 
