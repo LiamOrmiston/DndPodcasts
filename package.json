@@ -10,6 +10,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.20.1",
     "core-js": "^3.8.0",
+    "jquery": "^3.5.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
@@ -18,7 +19,7 @@
     "@vue/cli-service": "~4.5.9",
     "babel-eslint": "^10.1.0",
     "bootstrap": "^4.5.3",
-    "eslint": "^7.15.0",
+    "eslint": ">= 1.6.0 < 7.0.0",
     "eslint-plugin-vue": "^7.2.0",
     "popper.js": "^1.16.1",
     "portal-vue": "^2.1.7",
